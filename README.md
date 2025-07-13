@@ -8,6 +8,8 @@ Facebook Group: https://www.facebook.com/groups/317078522394277
 
 Mailbox Parts: https://www.indiancreekironworks.com/contact
 
+Omni Management Group: helpdesk@omni-management.com
+
 ## Shiloh Village
 
 Fire: https://shilohil.org/village-hall/fire-departments/
