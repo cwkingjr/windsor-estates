@@ -15,7 +15,7 @@ Omni Management Group: helpdesk@omni-management.com
 
 ## Shiloh Village
 
-Burning: See images folder on the left
+Burning: See images at the bottom.
 
 Fire: https://shilohil.org/village-hall/fire-departments/
 
@@ -34,7 +34,7 @@ Yard Waste Drop Off:
 - https://shilohil.org/yard-waste-guidelines-for-shiloh-il-what-you-need-to-know/
 - Contact info at top of web page.
   Address: 107 Service Street, Swansea, IL 62226
-- See images folder on the left
+- See images at the bottom
 
 ## County
 
@@ -71,3 +71,9 @@ These are here without any sort of warrantee/recommendation from me, but they ha
 ## Honorable Mention
 
 - Pressure Washing. I have not done business with this guy, but I stopped and talked to him for a bit while he was doing an estimate for house washing in the neighborhood. I'm posting this here because I was extremely impressed with the young man himself. He was super nice, super professional, super knowlegable, and kind enough to take the time to answer some rando questions on the side of the road. His equipment looked professional also and I hope he is very successful. I don't even really know him, but he left a stellar impression. https://magictouchpressurewash.com/
+
+## Images
+
+<p align="center"><img src="images/shiloh-burning.jpeg" width="400" /></p>
+<p align="center"><img src="images/yard-waste-drop-off-residents-no-commercial.jpeg" width="400" /></p>
+<p align="center"><img src="images/yard-waste-drop-off-yes-no-and-sched.jpeg" width="400" /></p>
